@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    width: 100%;
+    padding-top: 5px;
+    background-color: rgb(104, 97, 88);
+}
+.clear{
+    clear: both;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+.logo{
+    width: 100px;
+    float: left;
+}
+li{
+    margin-right: 20px;
+    text-transform: uppercase;
+    float: right;
+    list-style-type: none;
+}
+a{
+    color: white;
+}
+.contents{
+    text-align: center;
+}
+.content{
+    float: left;
+    width: 33.33%;
+    padding: 7px;
+    box-sizing: border-box;
+}
+.img{
+    width: 100%;
+}
